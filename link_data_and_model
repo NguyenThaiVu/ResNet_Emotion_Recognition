@@ -1,0 +1,8 @@
+https://drive.google.com/drive/folders/1PSSuFBcdiIsaJL8cYPTRkV8ChrhmvyPC?usp=sharing
+
+The link contain:
+1. image_train.h5	: file .h5 contain 47681 image to training ResNet 50 
+2. label_train.h5	: file .h5 contain 47681 label to training ResNet 50 
+3. image_test.h5	: file .h5 contain 20390 image to testing ResNet 50 
+4. label_test.h5	: file .h5 contain 20390 label to testing ResNet 50 
+5. Resnet_Emotion.h5	: model ResNet
